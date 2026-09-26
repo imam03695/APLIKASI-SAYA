@@ -1,0 +1,6 @@
+{
+  "name": "NetWarga - Sistem Manajemen & Billing RT RW Net",
+  "description": "Platform manajemen RT RW Net lengkap: pendaftaran konsumen, dashboard pelanggan, monitoring pembayaran bulanan real-time, dan notifikasi pengingat jatuh tempo otomatis WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
